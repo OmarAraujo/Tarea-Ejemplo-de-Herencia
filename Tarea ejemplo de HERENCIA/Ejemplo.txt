@@ -16,7 +16,7 @@ public class Persona {
     public String getApellidos () { return apellidos; }
     public int getEdad () { return edad; }
 
-} //Cierre de la clase
+} //Cierre de la clase.
 
 
 //Código de la clase profesor, subclase de la clase Persona
